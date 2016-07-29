@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sgx",
+  "name": "usefulSGX",
+  "description": "Mod pour le serveur SkyGraphyX",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sansukai", "Atoce"],
+  "credits": "Serveur SkyGraphyX",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
